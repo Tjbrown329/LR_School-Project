@@ -1,0 +1,1 @@
+This was a machinelearning project done for school, using the student-mat dataset, teaching a regression algorithm to predict students grades given a set of information.
